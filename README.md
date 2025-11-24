@@ -10,6 +10,11 @@ This project implements the Producer–Consumer concurrency problem. The produce
 ## Folder Structure
 ```
 /ProducerConsumerProject
+├──config/
+|  ├── settings.py
+├── docs/
+|   ├── Report.pdf
+├── logs/
 ├── src/
 │   ├── ITStudent.py
 │   ├── buffer.py
@@ -17,14 +22,21 @@ This project implements the Producer–Consumer concurrency problem. The produce
 │   ├── consumer_threaded.py
 │   ├── main_threaded.py
 │   ├── socket_producer.py
+|   ├── socket received.xml
 │   └── socket_consumer.py
+├── tests/
+|   ├── test_buffer.py
 ├── xml_files/
 │   ├── student1.xml
 │   ├── student2.xml
 │   └── student3.xml
-├── docs/
-│   └── final_report.pdf
-└── README.md
+├── demo_video.py
+├── PROJECT TREE.txt.
+├── README.md.
+├── Report.pdf
+├── Requirements.txt
+├── run_socket.py
+└── run_threaded.py
 ```
 
 ## Requirements
