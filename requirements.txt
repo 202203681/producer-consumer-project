@@ -1,0 +1,9 @@
+# Producer-Consumer Project Requirements
+# No external dependencies required - uses Python standard library
+
+# Python version requirement
+python_requires>=3.8
+
+# For potential future enhancements:
+# colorama>=0.4.6  # For colored console output
+# pytest>=7.0.0   # For testing

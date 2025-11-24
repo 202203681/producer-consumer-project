@@ -1,0 +1,17 @@
+src/
+xml_files/
+docs/
+README.md
+demo_video.mp4
+src/ITStudent.py
+src/buffer.py
+src/producer_threaded.py
+src/consumer_threaded.py
+src/main_threaded.py
+src/socket_producer.py
+src/socket_consumer.py
+xml_files/student1.xml
+xml_files/student2.xml
+xml_files/student3.xml
+docs/final_report.pdf
+docs/assignment_specification_path.txt
