@@ -1,0 +1,23 @@
+<Student>
+  <Name>Aisha</Name>
+  <ID>80052706</ID>
+  <Programme>BEng</Programme>
+  <Courses>
+    <Course>
+      <CourseName>DS201</CourseName>
+      <Mark>51</Mark>
+    </Course>
+    <Course>
+      <CourseName>NET301</CourseName>
+      <Mark>40</Mark>
+    </Course>
+    <Course>
+      <CourseName>CS101</CourseName>
+      <Mark>67</Mark>
+    </Course>
+    <Course>
+      <CourseName>MATH101</CourseName>
+      <Mark>42</Mark>
+    </Course>
+  </Courses>
+</Student>
